@@ -9,7 +9,10 @@ My driver I wrote has only been tested on Window 1903, so BSODs may occur if you
 If you're concerned about the driver aspect and wish for an external version, I'll post that as well. 
 
 Includes:
-[x] 20x Damage Multiplier, ESP, No Spread, No Recoil, Screen Shot Protection (BitBlit Method)
+[x] 20x Damage Multiplier, ESP, No Spread, No Recoil
+
+TO DO:
+[x] Add screenshot protection
 
 [FILES]
 https://imgur.com/a/IRzdnEi

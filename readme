@@ -1,0 +1,18 @@
+# I am deciding to release my SWBF2 hack that I spent about 15 minutes on. I dropped 100+ kill games for around a month with no ban so far.
+
+1) Load driver via Physmeme or any other manual mapper (Physmeme is included)
+2) Open menu when game is loaded
+3) Profit! 
+
+My driver I wrote has only been tested on Window 1903, so BSODs may occur if you're on a newer version. It utilizes a simple function hook pointer (kind of overkill for this anticheat) and a menu that utilized RPM / WPM. 
+
+If you're concerned about the driver aspect and wish for an external version, I'll post that as well. 
+
+Includes:
+[x] 20x Damage Multiplier, ESP, No Spread, No Recoil, Screen Shot Protection (BitBlit Method)
+
+[FILES]
+[URL="https://imgur.com/a/IRzdnEi"]https://imgur.com/a/IRzdnEi[/URL]
+
+[MENU] 
+[URL="https://imgur.com/a/lL1o7xQ"]https://imgur.com/a/lL1o7xQ[/URL]
